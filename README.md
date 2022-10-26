@@ -1,7 +1,7 @@
-# b-DCCA for Bird Sound Detection
+# b-DCCA for Bird Vocalization Detection
 
 This repository contains the code base used to implement experiments described in the paper:  
-BALANCED DEEP CANONICAL CORRELATION ANALYSIS FOR BIRD SOUND DETECTION by Sumit Kumar et al.
+BALANCED DEEP CANONICAL CORRELATION ANALYSIS FOR BIRD VOCALIZATION DETECTION by Sumit Kumar et al.
 
 ## Dataset
 
