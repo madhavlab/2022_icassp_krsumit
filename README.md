@@ -2,8 +2,11 @@
 
 This repository contains the code base used to implement experiments described in the paper:  
 BALANCED DEEP CCA FOR BIRD VOCALIZATION DETECTION by Sumit Kumar et al.
+
 Link to paper (IEEE Xplore): https://ieeexplore.ieee.org/abstract/document/10094650 
+
 Link to paper (arxiV): https://arxiv.org/pdf/2211.09376.pdf
+
 Link to dataset: https://doi.org/10.5281/zenodo.7253729
 
 ## Dataset
